@@ -30,7 +30,7 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 4. **Title**: [_"Was Russell Wilson underpaid?_](https://github.com/jhonsen/NFLplayersValuation)   
 **Topic**: Market valuation of NFL players in their early career   
 ![image](https://github.com/jhonsen/NFLplayersValuation/blob/master/codes/figures/NFLPlayers.gif)  
-
+<img src="https://github.com/jhonsen/NFLplayersValuation/blob/master/codes/figures/NFLPlayers.gif" width="480">
     **Keywords**: `Regression`, `webscraping`,  `unsupervised learning`, `linear model`, `feature engineering`
       
     **Tools**: `BeautifuilSoup`, `Selenium`, `matplotlib`, `seaborn`, `scikit-learn`, `pandas`
