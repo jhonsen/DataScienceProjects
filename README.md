@@ -1,5 +1,5 @@
 # Data Science Projects
-This is a repository of my Data Science portfolio. To access each project repo, click on the title.  
+This is a repository of my Data Science portfolio. Click on the project Title to access each repo.  
 
 ## Projects:
 
@@ -18,3 +18,19 @@ This is a repository of my Data Science portfolio. To access each project repo, 
     **Keywords**: `Document labeling`, `clustering`, `NLP`,  `topic modeling` , `unsupervised learning`
       
     **Tools**: `PetScan`, `wikipediaapi`, `nltk`, `nmf`, `Tableau`, `seaborn`, `pandas`, `nltk`, `TruncatedSVD`, `t-SNE`, `U-MAP`, `D3.js`, `Flask`
+
+3. **Title**: [_"What lifestyle changes could I make to avoid obesity?_](https://github.com/jhonsen/ObesityPrediction)   
+**Topic**: Predicting obesity using interpretable machine learning models   
+![vid](https://github.com/jhonsen/ObesityPrediction/blob/master/docs/figures/shortervid.gif)  
+
+    **Keywords**: `classification`, `probabilistic model`, `logistic regression`, `random forest`, `LIME`, `categorical features`, `supervised learning`
+      
+    **Tools**: `PostgreSQL`, `csvkit`, `LIME`, `D3.js`, `scikit-learn`, `LIME`, `Flask`, `Heroku`, `pandas`, `seaborn`, `matplotlib`
+
+4. **Title**: [_"Was Russell Wilson underpaid?_](https://github.com/jhonsen/NFLplayersValuation)   
+**Topic**: Market valuation of NFL players in their early career   
+![image](https://github.com/jhonsen/NFLplayersValuation/blob/master/codes/figures/NFLPlayers.gif)  
+
+    **Keywords**: `Regression`, `webscraping`,  `unsupervised learning`, `linear model`, `feature engineering`
+      
+    **Tools**: `BeautifuilSoup`, `Selenium`, `matplotlib`, `seaborn`, `scikit-learn`, `pandas`
