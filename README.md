@@ -13,7 +13,7 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 
 2. **Title**: [_"What should a data scientist's bio look like?_](https://github.com/jhonsen/SimilarScientists)   
 **Topic**: Community segmentation using natural language processing and unsupervised learning   
-![image](https://github.com/jhonsen/SimilarScientists/blob/master/docs/figures/Final_onTableau.gif)  
+![image](https://github.com/jhonsen/SimilarScientists/blob/master/docs/figures/Final_onTableau.gif)   
 
     **Keywords**: `Document labeling`, `clustering`, `NLP`,  `topic modeling` , `unsupervised learning`
       
@@ -33,4 +33,4 @@ This is a repository of my Data Science portfolio. Click on the project Title to
     **Keywords**: `Regression`, `webscraping`,  `unsupervised learning`, `linear model`, `feature engineering`
     **Tools**: `BeautifuilSoup`, `Selenium`, `matplotlib`, `seaborn`, `scikit-learn`, `pandas`
 
-<img src="https://github.com/jhonsen/NFLplayersValuation/blob/master/codes/figures/NFLPlayers.gif" width="480">
+<img src="https://github.com/jhonsen/NFLplayersValuation/blob/master/codes/figures/NFLPlayers.gif" width="480" align="center">
