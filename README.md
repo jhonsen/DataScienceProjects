@@ -6,15 +6,16 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 ### 1.  **Title**: [_"What's for dinner tonight?_](https://github.com/jhonsen/Produce2Recipe)   
 **Topic**: Building a phone app using deep learning and natural language processing   
 
-<img src="https://github.com/jhonsen/Produce2Recipe/blob/master/docs/images/P2R_action.gif" alt="P2R" title="Produce2Recipe App" width="640" height="480" />
+<img src="https://github.com/jhonsen/Produce2Recipe/blob/master/docs/images/P2R_action.gif" alt="P2R" title="Produce2Recipe App" width="640" height="480" align="center"/>
      
-**Keywords**: `engineering`, `convolutional neural network`, `transfer learning`, `deep learning`, `NLP`, `image classification`, `topic modeling` , `unsupervised learning`, `supervised learning`         
+**Keywords**: `engineering`, `convolutional neural network`, `transfer learning`, `deep learning`, `NLP`, `image classification`, `topic modeling` , `unsupervised learning`, `supervised learning`       
+
 **Tools**: `BeautifulSoup`, `google-api`, `nltk`, `nmf`, `keras`, `Flask`, `ngrok`, `apple script`
 
 ### 2. **Title**: [_"What should a data scientist's bio look like?_](https://github.com/jhonsen/SimilarScientists)   
 **Topic**: Community segmentation using natural language processing and unsupervised learning   
   
-![image](https://github.com/jhonsen/SimilarScientists/blob/master/docs/figures/Final_onTableau.gif)   
+<img src="https://github.com/jhonsen/SimilarScientists/blob/master/docs/figures/Final_onTableau.gif" alt="Bio" title="LinkedIn Bio" width="640" height="480" align="center"/>   
 
 **Keywords**: `Document labeling`, `clustering`, `NLP`,  `topic modeling` , `unsupervised learning`
       
@@ -23,7 +24,8 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 ### 3. **Title**: [_"What lifestyle changes could I make to avoid obesity?_](https://github.com/jhonsen/ObesityPrediction)   
 **Topic**: Predicting obesity using interpretable machine learning models   
    
-![vid](https://github.com/jhonsen/ObesityPrediction/blob/master/docs/figures/shortervid.gif)  
+<img src="https://github.com/jhonsen/ObesityPrediction/blob/master/docs/figures/shortervid.gif" alt="App" title="ObeseApp" width="640" height="480" align="center"/>
+
 
 **Keywords**: `classification`, `probabilistic model`, `logistic regression`, `random forest`, `LIME`, `categorical features`, `supervised learning`
       
@@ -36,4 +38,4 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 
 **Tools**: `BeautifuilSoup`, `Selenium`, `matplotlib`, `seaborn`, `scikit-learn`, `pandas`
 
-<img src="https://github.com/jhonsen/NFLplayersValuation/blob/master/codes/figures/NFLPlayers.gif" width="480" align="left">
+<img src="https://github.com/jhonsen/NFLplayersValuation/blob/master/codes/figures/NFLPlayers.gif" width="480" align="center">
