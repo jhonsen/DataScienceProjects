@@ -11,7 +11,7 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 
 &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/jhonsen/Produce2Recipe/blob/master/docs/images/P2R_action.gif" alt="P2R" title="Produce2Recipe App" width="480" align="center"/>
      
->>**Keywords**: data engineering, convolutional neural network (CNN), NLP, image classification, topic modeling<br />  
+>>**Keywords**: data engineering, convolutional neural network (CNN), NLP, image classification, topic modeling<br />
 >>**Tools**: `BeautifulSoup`, `google-api`, `nltk`, `nmf`, `keras`, `Flask`, `ngrok`, `apple script`  
 
 ---
