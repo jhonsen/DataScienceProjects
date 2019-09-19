@@ -10,7 +10,7 @@ Projects in this topic:
 1. Title: [_"What's for dinner tonight?_](https://github.com/jhonsen/Produce2Recipe)
     - Summary : Building a _phone app_ with image recognition and natural language processing  
     - Category: Image Classification, Topic Modeling
-&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/jhonsen/Produce2Recipe/blob/master/docs/images/P2R_action.gif" alt="P2R" title="Produce2Recipe App" width="640" height="480" align="center"/>
+&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/jhonsen/Produce2Recipe/blob/master/docs/images/P2R_action.gif" alt="P2R" title="Produce2Recipe App" width="480" align="center"/>
      
 >**Keywords**: data engineering, convolutional neural network (CNN), NLP, image classification, topic modeling , supervised & unsupervised learning       
 
@@ -24,7 +24,7 @@ Projects in this topic:
     - Summary : Community segmentation via natural language processing and unsupervised learning   
     - Category: Clustering, Topic Modeling
 
-&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/jhonsen/SimilarScientists/blob/master/docs/figures/Final_onTableau.gif" alt="Bio" title="LinkedIn Bio" width="640" height="480" align="center"/>   
+&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/jhonsen/SimilarScientists/blob/master/docs/figures/Final_onTableau.gif" alt="Bio" title="LinkedIn Bio" width="480"  align="center"/>   
 
 >**Keywords**: `Document labeling`, `clustering`, `NLP`,  `topic modeling` , `unsupervised learning`
       
@@ -36,7 +36,7 @@ Projects in this topic:
     - Summary : Predicting obesity using interpretable machine learning models   
     - Category: Classification
    
-&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/jhonsen/ObesityPrediction/blob/master/docs/figures/shortervid.gif" alt="App" title="ObeseApp" width="640" height="480" align="center"/>
+&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/jhonsen/ObesityPrediction/blob/master/docs/figures/shortervid.gif" alt="App" title="ObeseApp" width="480" align="center"/>
 
 >**Keywords**: `classification`, `probabilistic model`, `logistic regression`, `random forest`, `LIME`, `categorical features`, `supervised learning`
       
